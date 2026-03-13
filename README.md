@@ -30,5 +30,5 @@ A collection of professional, independent C++ utility scripts designed to solve 
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/postgrad-custom-independent-scripts.git](https://github.com/yourusername/postgrad-custom-independent-scripts.git)
+git clone [https://github.com/yourusername/postgrad-custom-independent-scripts.git](https://github.com/mtepenner/postgrad-custom-independent-scripts.git)
 ```
